@@ -1,0 +1,9 @@
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.Login.resources
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.member.Mainform.resources
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.member.UserControl1.resources
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.member.UserControl2.resources
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.csproj.GenerateResource.cache
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.AssemblyInfoInputs.cache
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.AssemblyInfo.cs
+D:\Students\cs_work\Solution1\WinFormsApp9\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.csproj.CoreCompileInputs.cache

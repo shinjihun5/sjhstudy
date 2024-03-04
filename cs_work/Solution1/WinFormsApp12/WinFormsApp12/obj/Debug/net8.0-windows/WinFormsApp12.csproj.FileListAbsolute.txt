@@ -1,0 +1,16 @@
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.exe
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.deps.json
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.runtimeconfig.json
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.dll
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.pdb
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.Form1.resources
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.csproj.GenerateResource.cache
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.AssemblyInfoInputs.cache
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.AssemblyInfo.cs
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.csproj.CoreCompileInputs.cache
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.dll
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\refint\WinFormsApp12.dll
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.pdb
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.genruntimeconfig.cache
+D:\Students\cs_work\Solution1\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\ref\WinFormsApp12.dll

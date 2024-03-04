@@ -1,0 +1,10 @@
+D:\Students\cs_work\Codereview\Codereview\bin\Debug\Codereview.exe.config
+D:\Students\cs_work\Codereview\Codereview\bin\Debug\Codereview.exe
+D:\Students\cs_work\Codereview\Codereview\bin\Debug\Codereview.pdb
+D:\Students\cs_work\Codereview\Codereview\obj\Debug\Codereview.csproj.AssemblyReference.cache
+D:\Students\cs_work\Codereview\Codereview\obj\Debug\Codereview.Form1.resources
+D:\Students\cs_work\Codereview\Codereview\obj\Debug\Codereview.Properties.Resources.resources
+D:\Students\cs_work\Codereview\Codereview\obj\Debug\Codereview.csproj.GenerateResource.cache
+D:\Students\cs_work\Codereview\Codereview\obj\Debug\Codereview.csproj.CoreCompileInputs.cache
+D:\Students\cs_work\Codereview\Codereview\obj\Debug\Codereview.exe
+D:\Students\cs_work\Codereview\Codereview\obj\Debug\Codereview.pdb

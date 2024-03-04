@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|solutionrelative:projecttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|solutionrelative:projecttest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|d:\\studentssjg (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|solutionrelative:projecttest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|solutionrelative:projecttest\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|solutionrelative:projecttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|solutionrelative:projecttest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C35EA4-F1A3-457F-8642-E9EC28D25127}|projecttest\\projecttest.csproj|solutionrelative:projecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form2.cs",
+              "RelativeDocumentMoniker": "projecttest\\Form2.cs",
+              "ToolTip": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form2.cs",
+              "RelativeToolTip": "projecttest\\Form2.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:21:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form2.cs",
+              "RelativeDocumentMoniker": "projecttest\\Form2.cs",
+              "ToolTip": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "projecttest\\Form2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:21:00.969Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Program.cs",
+              "RelativeDocumentMoniker": "projecttest\\Program.cs",
+              "ToolTip": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Program.cs",
+              "RelativeToolTip": "projecttest\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:21:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "projecttest\\Form2.Designer.cs",
+              "ToolTip": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form2.Designer.cs",
+              "RelativeToolTip": "projecttest\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:21:00.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form1.cs",
+              "RelativeDocumentMoniker": "projecttest\\Form1.cs",
+              "ToolTip": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "projecttest\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:21:00.98Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form1.cs",
+              "RelativeDocumentMoniker": "projecttest\\Form1.cs",
+              "ToolTip": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form1.cs",
+              "RelativeToolTip": "projecttest\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:21:00.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "projecttest\\Form1.Designer.cs",
+              "ToolTip": "D:\\StudentsSJG (1)\\cs_work\\c#project\\projecttest (2)\\projecttest\\Form1.Designer.cs",
+              "RelativeToolTip": "projecttest\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:21:00.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

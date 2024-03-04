@@ -1,0 +1,9 @@
+D:\Students\cs_work\aaaa0223\aaaa0223\bin\Debug\aaaa0223.exe.config
+D:\Students\cs_work\aaaa0223\aaaa0223\bin\Debug\aaaa0223.exe
+D:\Students\cs_work\aaaa0223\aaaa0223\bin\Debug\aaaa0223.pdb
+D:\Students\cs_work\aaaa0223\aaaa0223\obj\Debug\aaaa0223.csproj.AssemblyReference.cache
+D:\Students\cs_work\aaaa0223\aaaa0223\obj\Debug\aaaa0223.Properties.Resources.resources
+D:\Students\cs_work\aaaa0223\aaaa0223\obj\Debug\aaaa0223.csproj.GenerateResource.cache
+D:\Students\cs_work\aaaa0223\aaaa0223\obj\Debug\aaaa0223.csproj.CoreCompileInputs.cache
+D:\Students\cs_work\aaaa0223\aaaa0223\obj\Debug\aaaa0223.exe
+D:\Students\cs_work\aaaa0223\aaaa0223\obj\Debug\aaaa0223.pdb

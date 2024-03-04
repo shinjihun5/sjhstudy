@@ -1,0 +1,11 @@
+D:\Students\cs_work\mdiprotect\mdiprotect\bin\Debug\mdiprotect.exe.config
+D:\Students\cs_work\mdiprotect\mdiprotect\bin\Debug\mdiprotect.exe
+D:\Students\cs_work\mdiprotect\mdiprotect\bin\Debug\mdiprotect.pdb
+D:\Students\cs_work\mdiprotect\mdiprotect\obj\Debug\mdiprotect.csproj.AssemblyReference.cache
+D:\Students\cs_work\mdiprotect\mdiprotect\obj\Debug\mdiprotect.Properties.Resources.resources
+D:\Students\cs_work\mdiprotect\mdiprotect\obj\Debug\mdiprotect.csproj.GenerateResource.cache
+D:\Students\cs_work\mdiprotect\mdiprotect\obj\Debug\mdiprotect.csproj.CoreCompileInputs.cache
+D:\Students\cs_work\mdiprotect\mdiprotect\obj\Debug\mdiprotect.exe
+D:\Students\cs_work\mdiprotect\mdiprotect\obj\Debug\mdiprotect.pdb
+D:\Students\cs_work\mdiprotect\mdiprotect\obj\Debug\mdiprotect.MainForm.resources
+D:\Students\cs_work\mdiprotect\mdiprotect\obj\Debug\mdiprotect.user.UserForm.resources

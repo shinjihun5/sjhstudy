@@ -1,0 +1,5 @@
+D:\Students\cs_work\Solution1\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Students\cs_work\Solution1\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Students\cs_work\Solution1\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Students\cs_work\Solution1\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Students\cs_work\Solution1\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
