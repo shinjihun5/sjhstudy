@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd0f1957-6d32-4139-b96f-2ab595982fb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/.vs/ProjectEvaluation/projecttest.metadata.v7.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/.vs/ProjectEvaluation/projecttest.projects.v7.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/.vs/projecttest/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/.vs/projecttest/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/obj/Debug/net8.0-windows/projecttest.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/obj/Debug/net8.0-windows/ref/projecttest.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/obj/Debug/net8.0-windows/refint/projecttest.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/obj/projecttest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/obj/projecttest.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/obj/projecttest.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/projecttest.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/projecttest.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex04/READMD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex04/src/main/resources/Sql/Member.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cs_work/Solution1/WinFormsApp1/WinFormsApp1/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cs_work/Solution1/WinFormsApp1/WinFormsApp1/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cs_work/Solution1/WinFormsApp2/.vs/WinFormsApp2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cs_work/Solution1/WinFormsApp2/.vs/WinFormsApp2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cs_work/Solution1/c/c/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cs_work/Solution1/c/c/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cs_work/Solution1/c/c/Form2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cs_work/Solution1/c/c/Form2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/Form2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cs_work/c#project/projecttest/projecttest/Form2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0213/src/main/java/org/example/Main9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0214/src/main/java/org/example/Main9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/AA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/AA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Main9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Maina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/Maina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0215/src/main/java/org/example/person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0216/src/main/java/org/example/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0219/src/main/java/org/example/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/ex0221/src/main/java/org/example/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_work/study0215/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_work/study0215/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/componont/AA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/componont/AA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/componont/BB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/componont/BB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/conf/AppContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0222/src/main/java/org/example/conf/AppContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0222/src/main/resources/MyContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0222/src/main/resources/MyContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0223/src/main/java/Component/AA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0223/src/main/java/Component/AA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0223/src/main/java/Component/BB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0223/src/main/java/Component/BB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex0223/src/main/java/org/example/conf/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex0223/src/main/java/org/example/conf/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fafa/ex0223/src/main/java/com/git/ex0223/Component/AA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../fafa/ex0223/src/main/java/com/git/ex0223/Component/AA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fafa/ex0223/src/main/java/com/git/ex0223/Component/BB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../fafa/ex0223/src/main/java/com/git/ex0223/Component/BB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fafa/ex0223/src/main/java/com/git/ex0223/Conf/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../fafa/ex0223/src/main/java/com/git/ex0223/Conf/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../user01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user01/src/main/java/org/example/Conf/MyConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../user01/src/main/java/org/example/Conf/MyConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user01/src/main/java/org/example/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../user01/src/main/java/org/example/member/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user01/src/main/java/org/example/member/MemberDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../user01/src/main/java/org/example/member/MemberDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user01/src/main/java/org/example/member/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../user01/src/main/java/org/example/member/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user01/src/main/java/org/example/member/Memberservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../user01/src/main/java/org/example/member/Memberservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/Conf/MyConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/Conf/MyConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/component/AA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/component/AA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/component/AABBService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/component/AABBService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/component/BB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/component/BB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/member/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/member/memberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/member/memberDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/member/memberservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/member/memberservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/user/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex0227/src/main/java/org/example/user/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../새 폴더/ex0226/src/main/java/com/git/ex0226/member/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../새 폴더/ex0226/src/main/java/com/git/ex0226/member/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../새 폴더/ex0226/src/main/resources/templates/aa.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../새 폴더/ex0226/src/main/resources/templates/aa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/aa/bb/cc/AAA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/aa/bb/cc/AAA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/Component/AA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/Component/AA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/Component/BB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/Component/BB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/Conf/MyConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/Conf/MyConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/Conf/MyConf2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/Conf/MyConf2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/member/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/member/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/member/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/member/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/member/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/member/Memberservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/member/Memberservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/myanno/ManualBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/java/com/git/ex02260/myanno/ManualBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/resources/templates/aa.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/resources/templates/aa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/resources/templates/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/resources/templates/regist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../새 폴더/ex02260/src/main/resources/templates/regist.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2cyR9B1R5Y4zMPGZdZdL3gufMDD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Students/spring/user2/ex0228/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd0f1957-6d32-4139-b96f-2ab595982fb1" name="Changes" comment="" />
+      <created>1709081678420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709081678420</updated>
+    </task>
+    <servers />
+  </component>
+</project>
